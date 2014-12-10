@@ -1,12 +1,10 @@
-package sepjenk;
-
-import java.lang.reflect.Array;
+package com.mycompany.sepjenkins;
+/** @author Kamil */
 import java.util.Arrays;
-
 /**
  * @author Kamil
  */
-public class SEPJenk {
+public class SEP {
     public static void main(String[] args) {
         System.out.println("Running...");
         
@@ -25,3 +23,4 @@ public class SEPJenk {
         }
     
 }
+
